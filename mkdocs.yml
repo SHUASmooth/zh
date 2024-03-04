@@ -25,6 +25,7 @@ theme:
   logo: images/logo.png
   # favicon: images/logo_TIGC_black_color.png
   # main color
+  language: zh
   palette: 
     # Palette toggle for light mode
     - scheme: default
