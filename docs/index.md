@@ -3,11 +3,11 @@ hide:
   - navigation
 ---
 
-!!! danger "建设"
+!!! info danger "建设"
     网站建设中......
     
-    中英文切换尚未建成！！！敬请期待
-
+!!! success "更新"
+    中英文切换建成！！！来试试吧！
 
 # 你好，这里是SMOOTH的网站!
 !!! Warning "加班建设中..."
