@@ -5,7 +5,7 @@ site_url: https://SHUASmooth.github.io/
 copyright: Copyright © 2024 Shunhua Liu
 # architecture
 nav:
-  - HOME: 
+  - 首页: 
     - index.md
   - PERSONAL PARTICULARS:
     - 关于我: 个人/关于我.md
