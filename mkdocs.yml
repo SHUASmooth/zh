@@ -8,16 +8,16 @@ nav:
   - HOME: 
     - index.md
   - PERSONAL PARTICULARS:
-    - About me: person/particulars.md
-    - Honors / Awards: person/honors.md
-    - Work Experience: person/introduction.md
-  - ACADEMIC:
-    - Research:
-      - SRTP: research/SRTP.md
-      - Others: research/other.md
+    - 关于我: 个人/关于我.md
+    - 荣誉: 个人/荣誉.md
+    - 工作经历: 个人/工作经历.md
+  - 学术:
+    - 研究:
+      - SRTP: 研究/SRTP.md
+      - 其他: 研究/其他.md
       # - course:
-  - NEWs:
-    - Life: news/life.md
+  - 新闻:
+    - 生活: 新闻/生活.md
 
 theme:
   # initial
